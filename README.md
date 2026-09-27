@@ -19,9 +19,17 @@ zip2john NetCutv1.4.9 > 8.txt
 
 
 apt install john
+
+
 cd /sdcard/Download
+
+
 ls
+
+
 zip2john NetCutv1.4.9.zip > 8.txt
+
+
 john 8.txt
 
 
