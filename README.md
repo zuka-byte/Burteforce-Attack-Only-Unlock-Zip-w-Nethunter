@@ -2,7 +2,9 @@
 🇧🇩💀
 
 apt install john
+
 cd /sdcard/Download
+
 ls
 zip2john এরপর তোমার ক্রাক করতে চাওয়া zip ফাইলের নাম যেমন আমার NetCutv1.4.9.zip তারপর একটা > লিখে তারপর txt ফাইলের নাম লিখবে যেমন আমার 8.txt একসাথে সাজিয়ে লিখে দেখাই zip2john NetCutv1.4.9 > 8.txt
 এরপর ইন্টার করো
