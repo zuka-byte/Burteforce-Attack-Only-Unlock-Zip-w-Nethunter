@@ -1,4 +1,4 @@
-# Burteforce-Attack-Only-Unlock-Zip-w-Nethunter
+# Burteforce-Attack-Unlock-Zip,7z,rar-with-Nethunter
 🇧🇩💀
 
 apt install john
